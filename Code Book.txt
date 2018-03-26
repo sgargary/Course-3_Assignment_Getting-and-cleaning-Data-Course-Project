@@ -1,0 +1,14 @@
+Code Book
+X_all 
+merged X_test & X_train
+y_all
+merged y_test & y_train
+sel_1
+grep() is used to select mean and std columns only
+X_sel
+Contains the mean and std columns from X_all
+X_tidy5
+This is created for part 5 of the assignment to get the mean of each object and each activity
+
+
+
